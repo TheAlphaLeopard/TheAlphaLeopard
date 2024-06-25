@@ -1,6 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="baby.gif" width="100"/>
+  <div id="badges">
+  <a href="https://youtube.com/@QUA-SUM">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://x.com/D4373305294416">
+    <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
+</div>
+
 
 
 - 👋 Hi, I’m TheAlphaLeopard, CattailsKoKo, dot_ds, and many others...
