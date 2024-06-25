@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 - 👋 Hi, I’m TheAlphaLeopard, CattailsKoKo, dot_ds, and many others...
 - 👀 I’m interested in computer engineering, programming, and developing. (also AI and small projects)
 - 🌱 I’m currently learning computer developing, mainly HTML and JS
