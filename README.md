@@ -20,7 +20,7 @@
 - 👀 I’m interested in computer engineering, programming, and developing. (also AI and small projects)
 - 🌱 I’m currently learning computer developing, mainly HTML and JS
 - 💞️ I’m looking to collaborate on my projects and my instrests
-- 📫 How to reach me my number and email, buisness only please. 931-842-9344 & djslaughter2@icloud.com
+- 📫 How to reach me my number and email, buisness only please. guestacount101101@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm the smartest person I know... 😎
 - 💬 Socials: X(dot_ds), Roblox(CattailsKoKo), Scratch(TheAlphaLeopard), [YT](https://www.youtube.com/@QUA-SUM)
