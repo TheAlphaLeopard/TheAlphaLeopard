@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="baby.gif" width="100"/>
+  <img src="baby.gif" width="auto" height="auto"/>
   <div id="badges">
   <a href="https://youtube.com/@QUA-SUM">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -12,18 +12,18 @@
 </div>
 
 <h1>
-  Hi! I'm TheAlphaLeopard!
+  wassup im sarge
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
-- 👀 I’m interested in computer engineering, programming, and developing. (also AI and small projects)
-- 🌱 I’m currently learning computer developing, mainly HTML and JS
-- 💞️ I’m looking to collaborate on my projects and my instrests
-- 📫 How to reach me my number and email, buisness only please. guestacount101101@gmail.com
+- 👀 I like coding html, css, and js (mainly frontend kinda guy)
+- 🌱 I dabble in ai and proxy projects like deepseek and ultravioler
+- 💞️ I'm looking to expand my skills as a web developer
+- 📫 you can reach me here [Discord](https://discord.com/users/835563638722920469)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm the smartest person I know... 😎
-- 💬 Socials: X(dot_ds), Roblox(CattailsKoKo), Scratch(TheAlphaLeopard), [YT](https://www.youtube.com/@QUA-SUM)
+- 💬 Socials:  [websim.ai](https://websim.ai/@sargeslaughter), [Discord](https://discord.com/users/835563638722920469), [YT](https://www.youtube.com/@QUA-SUM), [x (barely use)](https://x.com/D4373305294416)
 
   ### :fire: My Stats :
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheAlphaLeopard&theme=midnight-purple)](https://git.io/streak-stats)
